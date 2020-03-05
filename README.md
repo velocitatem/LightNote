@@ -1,0 +1,2 @@
+# LightNote
+note taking app

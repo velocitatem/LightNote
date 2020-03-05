@@ -1,0 +1,9 @@
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\bin\Debug\LightNote.exe.config
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\bin\Debug\LightNote.exe
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\bin\Debug\LightNote.pdb
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.csprojAssemblyReference.cache
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.Form1.resources
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.Properties.Resources.resources
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.csproj.GenerateResource.cache
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.exe
+C:\Users\Daniel Alves Rosel\source\repos\LightNote\LightNote\obj\Debug\LightNote.pdb
